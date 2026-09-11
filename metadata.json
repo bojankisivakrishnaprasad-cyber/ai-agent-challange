@@ -1,0 +1,7 @@
+{
+  "name": "KisanAI - Smart Agriculture Management Agent",
+  "description": "Real-time multilingual agricultural AI agent for crop recommendation, mandi market prices, weather advisories, disease detection, and cloud farm monitoring in 6 languages.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
